@@ -1,6 +1,5 @@
 __author__ = 'tom'
-def greetings(msg):
-    print msg
+import helper
 
-greetings("hello")
+helper.greetings("hello")
 
